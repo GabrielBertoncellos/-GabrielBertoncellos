@@ -1,7 +1,7 @@
 Hello there 👋
-- 🔭 Hoje trabalho como técnico em Radiologia ☢
-- 🌱 Estou estudando para me tornar um desenvolvedor front-end.
-- 📫 Meus contatos estão logo abaixo:
+- 🔭 Today I work as a Radiology Technician ☢
+- 🌱 I'm studying to become a front-end developer.
+- 📫 My contacts are just below:
 <div> 
    <a href = "mailto:gbertoncellos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gbertoncellos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
